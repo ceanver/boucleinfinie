@@ -1,0 +1,12 @@
+name: port
+title: port
+username:
+account: ceanver
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1255330
+bundleId: 2450158
+url: https://ceanver.shinyapps.io/port/
+when: 1569603227.48302
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,12 @@
+name: comminution
+title: comminution
+username:
+account: ceanver
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1255338
+bundleId: 2450159
+url: https://ceanver.shinyapps.io/comminution/
+when: 1569603288.06611
+asMultiple: FALSE
+asStatic: FALSE
